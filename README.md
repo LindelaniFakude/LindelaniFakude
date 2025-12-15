@@ -1,4 +1,5 @@
 **Project: FNB Review Analyzer – Sentiment Analysis Dashboard**
+
 Developed an interactive Business Intelligence dashboard to analyze customer reviews for FNB across multiple branches and provinces. 
 The solution provides:
 
